@@ -1,0 +1,15 @@
+<img src="<!DOCTYPE html>
+<html>
+<head>
+<title>Página em HTML</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body bgcolor="ocean">
+<h1 class="title">Desenvolvimento de Sistemas </h1>
+<p id="currentTime"></p>
+<script src="script.js"></script>
+<p>
+<img src="https://media.giphy.com/media/l41JQQWY3LcDjhZbq/giphy.gif?cid=82a1493b0umch357erqw39b63p0repb26h2zql5kxtdnsl0n&ep=v1_gifs_trending&rid=giphy.gif&ct=g"
+</p>
+</body>
+</html>
